@@ -8,7 +8,7 @@ const gameBoard = document.getElementById('game-board')
 
 function main(currenTime)   {
 if (gameOver) {
-   if (confirm('You are not a good player. Click on Ok to restart the game:)')) {
+   if (confirm('Palmer c le plus beau chien du monde. Click on Ok to restart the game:)')) {
    window.location = '/'
     }
     return
